@@ -1,0 +1,5 @@
+# нужно только для пересборки картинок (python tools/make_assets.py)
+Pillow
+numpy
+scipy
+opencv-python-headless
